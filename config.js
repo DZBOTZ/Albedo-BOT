@@ -49,7 +49,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/inizenscuy' // ig
+global.sig = 'https://instagram.com/dhilzz.official' // ig
 global.sgh = 'https://github.com/RaaaGH/' // github
 global.sgc = 'https://chat.whatsapp.com/' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
